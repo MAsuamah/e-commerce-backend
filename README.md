@@ -21,3 +21,26 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 
 ## How to Use
 * To start the server run `npm start` or `node server.js`.
+* To see the all routes at work using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) is recommended.
+* Routes and methods available for this app are (using port 3001):
+* For Categories 
+  * GET http://localhost:3001/api/categories to get all categories.
+  * GET http://localhost:3001/api/categories/:id to get categories by id.
+  * POST http://localhost:3001/api/categories to add a category.
+  * PUT http://localhost:3001/api/categories/:id to update a category by id.
+  * DELETE http://localhost:3001/api/categories/:id to delete a category by id.
+* For Products 
+  * GET http://localhost:3001/api/products to get all products.
+  * GET http://localhost:3001/api/products/:id to get a product by id.
+  * POST http://localhost:3001/api/products to add a product.
+  * PUT http://localhost:3001/api/products/:id to update a product by id.
+  * DELETE http://localhost:3001/api/products/:id to delete a product by id.
+* For Tags 
+  * GET http://localhost:3001/api/tags to get all tags.
+  * GET http://localhost:3001/api/tags/:id to get a tag by id.
+  * POST http://localhost:3001/api/tags to add a tag.
+  * PUT http://localhost:3001/api/tags/:id to update a tag by id.
+  * DELETE http://localhost:3001/api/tags/:id to delete a tag by id.
+* For more on how to use an API client for this app see the [Walkthrough-Video](#walkthrough-video)
+
+## Walkthough-Video
