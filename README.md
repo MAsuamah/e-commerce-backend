@@ -23,7 +23,7 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 * To seed the database run `npm run seed`.
 * To start the server run `npm start` or `node server.js`.
 * To see all the routes at work using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) is recommended.
-* Routes and methods available for this app are (using port 3001):
+* Routes and methods available for this app are:
 * For Categories 
   * GET http://localhost:3001/api/categories to get all categories.
   * GET http://localhost:3001/api/categories/:id to get categories by id.
