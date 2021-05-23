@@ -22,7 +22,7 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 * Run `quit;` to exit the MySQL shell.
 * To seed the database run `npm run seed`.
 * To start the server run `npm start` or `node server.js`.
-* To see the all routes at work using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) is recommended.
+* To see all the routes at work using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) is recommended.
 * Routes and methods available for this app are (using port 3001):
 * For Categories 
   * GET http://localhost:3001/api/categories to get all categories.
