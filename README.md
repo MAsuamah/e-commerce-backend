@@ -44,3 +44,17 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 * For more on how to use an API client for this app see the [Walkthrough-Video](#walkthrough-video)
 
 ## Walkthough-Video
+
+## Built With
+* Node.js
+* MySQL2
+* Sequelize
+* Express.js
+* Dotenv
+
+
+## Contributors
+Michelle Asuamah
+
+## Contact
+If you would like to contact me you can reach me at michey.asmah21@gmail.com.
