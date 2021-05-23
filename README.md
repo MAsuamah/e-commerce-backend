@@ -45,6 +45,7 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 * For more on how to use an API client for this app see the [Walkthrough-Video](#walkthrough-video)
 
 ## Walkthough-Video
+https://drive.google.com/file/d/1jQfco-rqA8uDpzkNcUQABA_UGySm6TXi/view?usp=sharing
 
 ## Built With
 * Node.js
