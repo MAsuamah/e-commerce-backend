@@ -17,13 +17,19 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
  
 
 ## How to Use
+
+### Setup Database
 * In your terminal while still in the root folder of e-commerce-backend run `mysql -u root -p` then enter your MySQL password when prompted.
 * Now in the MySQL shell run `source db/schema.sql` to create the ecommerce_db database.
 * Run `quit;` to exit the MySQL shell.
 * To seed the database run `npm run seed`.
+
+### Start App
 * To start the server run `npm start` or `node server.js`.
 * To see all the routes at work using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) is recommended.
-* Routes and methods available for this app are:
+
+### Routes Available
+Routes and methods available for this app are:
 * For Categories 
   * GET http://localhost:3001/api/categories to get all categories.
   * GET http://localhost:3001/api/categories/:id to get categories by id.
