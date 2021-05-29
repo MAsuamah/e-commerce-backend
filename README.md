@@ -6,7 +6,7 @@ backend we are able to use GET, POST, PUT, and DELETE methods for each model.
 
 ## How to Install
 * You will need to have MySQL installed and have a MySQL username and password to use this app.
-* Clone this repository onto your local machine. [How to Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+* Clone this repository onto your local machine ([How to Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)).
 * In your terminal `cd` into the root folder of the e-commerce-backend.
 * While in the root folder, you must first run `npm install` to load all the dependencies needed for the app to run.
 * Next you should create a .env file in the root folder and edit it to contain your MySQL username and password. Your file should contain the following:
